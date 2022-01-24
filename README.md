@@ -5,6 +5,6 @@ First of all, i needed to setup my environment:
 
 1) Install the followings extensions in vs code:
     C/C++
-    Code runner]
+    Code runner
 
 2) File > Preferences > Settings > Extensions > Run Code Configuration > Check Run In Terminal
