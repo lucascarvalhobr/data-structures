@@ -8,3 +8,5 @@ First of all, i needed to setup my environment:
     Code runner
 
 2) File > Preferences > Settings > Extensions > Run Code Configuration > Check Run In Terminal
+
+3) Follow installation steps in https://www.javatpoint.com/how-to-run-a-c-program-in-visual-studio-code
